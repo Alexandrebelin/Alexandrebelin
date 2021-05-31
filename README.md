@@ -19,8 +19,6 @@ I'm working with the following tech:
 <br />
 <br />
 
-I'm based in France and I'm currently looking for an internship opportunity :briefcase:  
-
 #### On my Github you will find...
 
 Different Full-stack projects (React, Next-js, React-native) that I have made either alone or following tutorials.  
