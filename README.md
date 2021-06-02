@@ -1,6 +1,6 @@
 ### Hey there, I'm Alexandre  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a Full-stack Web Developer based in Paris
+### Full-stack Web Developer based in Paris
 
 
 I'm passionate about coding and technology, and specialize in full-stack javaScript solutions. 
