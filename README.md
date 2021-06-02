@@ -3,7 +3,7 @@
 ### I'm a Full-stack Web Developer based in Paris
 
 
-I start this adventure to become a web developer last year, since my first lign of code this passion drive me everyday to learn more and exceed my limits.
+I'm passionate about coding and technology, and specialize in full-stack javaScript solutions. 
 I'm working with the following tech:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
