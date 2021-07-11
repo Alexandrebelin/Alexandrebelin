@@ -26,7 +26,7 @@ Different Full-stack projects (React, Next-js, React-native) that I have made ei
 
 ### Feel free to contact me 
 * [Email](mailto:belin.alexandre.77@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/alexandre-belin-826b56161/)
+* [Linkedin](https://www.linkedin.com/in/belin-alexandre/)
 <!--
 **Alexandrebelin/Alexandrebelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
